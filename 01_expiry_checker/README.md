@@ -1,7 +1,7 @@
-🐍 Python Database Project: Expiry Date Tracker
+# Python Database Project: Expiry Date Tracker
 
-Status: Functional Prototype 🚧 This project focuses on backend logic and database management. It is designed to track product expiration dates using a local database, helping to automate inventory checks and reduce waste.
-🎯 Current Focus
+Status: Functional Prototype! This project focuses on backend logic and database management. It is designed to track product expiration dates using a local database, helping to automate inventory checks and reduce waste.
+## Current Focus
 
     Database Management: Implementing CRUD operations and table structures using SQLite3.
 
@@ -11,7 +11,7 @@ Status: Functional Prototype 🚧 This project focuses on backend logic and data
 
     Automated Checks: Developing logic to categorize products (expired vs. expiring soon) based on real-time data.
 
-🛠️ Tech Stack
+## Tech Stack
 
     Python 3 (Core Logic)
 
@@ -19,9 +19,10 @@ Status: Functional Prototype 🚧 This project focuses on backend logic and data
 
     Datetime Module (Time Calculations)
 
-📝 Note
+## Note
 
 This script is a core component of my backend learning path. I am currently refining the error handling (e.g., for missing dates) and planning to expand the "check" function to include automated email notifications or a graphical user interface (GUI).
 
 This project was my first deep dive into how data survives a program restart. It’s a great example of combining backend logic with a real-world use case.
+
 
