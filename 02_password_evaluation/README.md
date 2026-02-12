@@ -23,4 +23,5 @@ This tool analyzes the security level of passwords based on industry-standard cr
 
 This project is part of my journey to understand the intersection of software development and basic cybersecurity principles. I am currently exploring ways to expand this by checking passwords against known "leaked password" lists or adding a graphical interface.
 
-This project helps me to better understand the logic behind data validation and to solve practical security-related problems with code.
+Working on this tool sharpened my focus on defensive programming and showed me how small logic checks can significantly improve user security.
+
