@@ -23,4 +23,5 @@ Status: Functional Prototype 🚧 This project focuses on backend logic and data
 
 This script is a core component of my backend learning path. I am currently refining the error handling (e.g., for missing dates) and planning to expand the "check" function to include automated email notifications or a graphical user interface (GUI).
 
-This project helps me to better understand the logic behind databases and to solve practical problems with code.
+This project was my first deep dive into how data survives a program restart. It’s a great example of combining backend logic with a real-world use case.
+
