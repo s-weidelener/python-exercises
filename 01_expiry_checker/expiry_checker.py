@@ -2,7 +2,7 @@ import sqlite3
 import datetime
 
 # Connection and setup
-conn = sqlite3.connect('mein_projekt.db')
+conn = sqlite3.connect('inventory.db')
 today = datetime.date.today()
 cursor = conn.cursor()
 
@@ -13,7 +13,7 @@ cursor.execute('''
         barcode TEXT,
         name TEXT NOT NULL,
         expiry_date DATE,
-        add_at DATE,
+        added_at DATE,
         price REAL
     )
 ''')
