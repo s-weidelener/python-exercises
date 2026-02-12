@@ -1,8 +1,8 @@
-# 🐍 Python Learning Journey: Exercises & Projects
+# Python Learning Journey: Exercises & Projects
 
 Welcome to my Python practice repository! This collection documents my progress as I prepare for my vocational training as a Software Developer. Each folder contains a standalone script focusing on different core concepts of programming.
 
-## 📂 Project Overview
+## Project Overview
 
 | Folder | Project | Focus |
 | :--- | :--- | :--- |
@@ -13,9 +13,9 @@ Welcome to my Python practice repository! This collection documents my progress 
 
 ---
 
-## 🛠️ Getting Started
+## Getting Started
 To run any of these scripts, ensure you have Python 3 installed. Navigate into the specific folder and run the `.py` file:
 `python name_of_script.py`
 
-## 🎯 Goal
+## Goal
 Developing these tools allows me to apply theoretical concepts to hands-on projects. I am continuously expanding this repository to document my growth and explore new ways to build reliable, logic-driven applications.
