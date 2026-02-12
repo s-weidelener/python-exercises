@@ -23,4 +23,5 @@ A classic logic-based game where the player has to guess a randomly generated nu
 
 This project was a great exercise in managing "edge cases" – for example, what happens when a player enters a letter instead of a number? It helped me understand how to make a program more robust and user-friendly.
 
-This project helps me to better understand the logic behind interactive applications and to solve practical problems with code.
+Building this game was a fun way to master the 'Game Loop' concept and refine how a program handles unpredictable user behavior.
+
